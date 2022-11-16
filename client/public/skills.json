@@ -1,0 +1,28 @@
+[
+    {
+      "_id": "19",
+      "name": "Bank Job",
+      "img": "https://i.postimg.cc/8zh9KJp3/Bank-Job.png"
+    },
+    {
+      "_id": "22",
+      "name": "Developer Job",
+      "img": "https://i.postimg.cc/vZfT0z6s/Bank-Job-3.png"
+    },
+    {
+      "_id": "20",
+      "name": "Corporate Job",
+      "img": "https://i.postimg.cc/tJnpYq3j/Bank-Job-4.png"
+    },
+    {
+      "_id": "21",
+      "name": "Freelancer Job",
+      "img": "https://i.postimg.cc/P5WfW5Bf/job-2.png"
+    },
+    {
+      "_id": "23",
+      "name": "Freelancer Job",
+      "img": "https://i.postimg.cc/P5WfW5Bf/job-2.png"
+    }
+  ]
+  

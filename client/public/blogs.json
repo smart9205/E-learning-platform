@@ -1,0 +1,78 @@
+[
+    {
+        "_id": 18,
+        "name": "Rashel Mahomud",
+        "title": "Best Way to learn code and empliment this",
+        "description": "No matter what you want to be, it may be a web developer, software developer, or game developer, you have to learn code. If you follow some tricks, learning code is fun. In this post, I am going to explain how you can learn code effectively. So, if you are interested keep reading.",
+        "img": "https://i.ibb.co/DGgRjmB/MISSION-2022-2.jpg",
+        "address": "Chittagong, Bangladesh",
+        "title2": "01. Active vs Passive Learning",
+        "add": "The first thing is, that you should learn code actively not passively. Learning code and watching movies or music videos are not the same. So. if you are interested to learn code in that case definitely you should learn it actively not passively. When you watch a movie or listen to music in that case you don’t need to do everything  actually he wants to explain, as well as you should try to implement those tips and tricks and problem-solving things on your project. Lots of students actually watch when an instructor shares their experience but they procrastinate and they don’t do any practice. If you do the same thing, you cannot learn code effectively. So try to learn code actively not passively.",
+        "title3": "02. Take breaks",
+        "add1": "Suppose you want to learn code and it may be a Bootstrap course. In that case, you purchased a course from Udemy. Suppose you want to learn that knowledge and this course is about 10 hours and you decided that, you will learn a pose you want to learn something, in that case, you should learn and take a break, like after 1-hour learning takes 10 to 15 minutes break. If you learn this way, you will be able to learn and understand code properly. This is an effective way to learn code.",
+        "title4": "02. Take breaks",
+        "add2": "Suppose you want to learn code and it may be a Bootstrap course. In that case, you purchased a course from Udemy. Suppose you want to learn that knowledge and this course is about 10 hours and you decided that, you will learn a total thing in a day, it will be a horrible experience for you and also I can assure if you can ab learn something, in that case, you should learn and take a break, like after 1-hour learning takes 10 to 15 minutes break. If you learn this way, you will be able to learn and understand code properly. This is an effective way to learn code."
+    },
+    {
+        "_id": 16,
+        "name": "Md Badsha",
+        "title": "Best practice for writing code comments",
+        "description": "If you want to learn code, you have lots of resources. You can read books, or watch tutorials on YouTube or other platforms. No shortage of resources. But there are very few resources about best practices for writing code comments. It’s hard to measure the quality of good comments.",
+        "img": "https://i.ibb.co/ZfJ3XZz/MISSION-2022-1.jpg",
+        "address": "Dhaka, Bangladesh",
+        "title2": "What is JavaScript?",
+        "add": "Why use JavaScript over other programming languages? Aside from the unlimited possibilities, there are many reasons for web developers to use JavaScript over other programming languages: JavaScript is the only programming language native to the web browser. JavaScript is the most popular language",
+        "title3": "Learning JavaScript is easy",
+        "add1": "Arguably, JavaScript is one of the easiest programming languages to learn, so it serves as a great first language for anyone brand new to coding. Even the most complex lines of JavaScript code can be written one by one, in fragments. It can also be tested in the web browser at the same time.",
+        "title4": "Learning JavaScript is easy",
+        "add2": "Arguably, JavaScript is one of the easiest programming languages to learn, so it serves as a great first language for anyone brand new to coding. Even the most complex lines of JavaScript code can be written one by one, in fragments. It can also be tested in the web browser at the same time."
+    },
+    {
+        "_id": 15,
+        "name": "Muhammad Shafi",
+        "title": "Why JavaScript Is Still So Important for Web Development?",
+        "description": "Choosing the right technology partner is the first step in making a successful website. Lots of technologies and methods have been devised in the past few years to develop websites but PHP has emerged as the topmost technology for this. This is a best for codeing",
+        "img": "https://i.ibb.co/3zVsd1D/MISSION-2022.jpg",
+        "address": "Chittagong, Bangladesh",
+        "title2": "Excellent Thinking For.",
+        "add": "Now you might ask me, why comments? It’s no matter if I add a comment or not. The program works fine.You are right, your comment will not execute on the program but most of the time, not one person working on a project. That means other people might need to read your code and have to understand it. So it’s important to have comments. Remember !! Good code is self-documenting and professional programming means commenting.Why comments are Crucial There are three main reasons for writing comments in your code",
+        "title3": "What is JavaScript?",
+        "add1": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. Common examples of JavaScript that you might use every day include the search box on Amazon, a news recap video embedded on The New York Times, or refreshing your Twitter feed.Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages."
+    },
+    {
+        "_id": 77,
+        "name": "Muhammad Shafi",
+        "title": "What Is MongoDB and How Does It Work?",
+        "description": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented.",
+        "img": "https://i.ibb.co/DDNPmG5/MISSION-2022-2.png",
+        "address": "Chittagong, Bangladesh",
+        "title2": "Excellent Thinking For.",
+        "add": "Now you might ask me, why comments? It’s no matter if I add a comment or not. The program works fine.You are right, your comment will not execute on the program but most of the time, not one person working on a project. That means other people might need to read your code and have to understand it. So it’s important to have comments. Remember !! Good code is self-documenting and professional programming means commenting.Why comments are Crucial There are three main reasons for writing comments in your code",
+        "title3": "What is JavaScript?",
+        "add1": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. Common examples of JavaScript that you might use every day include the search box on Amazon, a news recap video embedded on The New York Times, or refreshing your Twitter feed.Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages."
+    },
+    {
+        "_id": 9,
+        "name": "Muhammad Shafi",
+        "title": "why importent learning react ja and Easy?",
+        "description": "React saves you time and money on development because it's component-based. You can break down an interface into reusable components that allow you to build dynamic user interfaces. This taps into the current thinking behind 'Design Systems.",
+        "img": "https://i.ibb.co/qkTf8dP/MISSION-2022-1.png",
+        "address": "Chittagong, Bangladesh",
+        "title2": "Excellent Thinking For.",
+        "add": "Now you might ask me, why comments? It’s no matter if I add a comment or not. The program works fine.You are right, your comment will not execute on the program but most of the time, not one person working on a project. That means other people might need to read your code and have to understand it. So it’s important to have comments. Remember !! Good code is self-documenting and professional programming means commenting.Why comments are Crucial There are three main reasons for writing comments in your code",
+        "title3": "What is JavaScript?",
+        "add1": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. Common examples of JavaScript that you might use every day include the search box on Amazon, a news recap video embedded on The New York Times, or refreshing your Twitter feed.Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages."
+    },
+    {
+        "_id": 11,
+        "name": "Muhammad Shafi",
+        "title": "Why Excellent Node.js for BackEnd site.?",
+        "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications. This is a best for code",
+        "img": "https://i.ibb.co/HXcSjZL/MISSION-2022.png",
+        "address": "Chittagong, Bangladesh",
+        "title2": "Excellent Thinking For.",
+        "add": "Now you might ask me, why comments? It’s no matter if I add a comment or not. The program works fine.You are right, your comment will not execute on the program but most of the time, not one person working on a project. That means other people might need to read your code and have to understand it. So it’s important to have comments. Remember !! Good code is self-documenting and professional programming means commenting.Why comments are Crucial There are three main reasons for writing comments in your code",
+        "title3": "What is JavaScript?",
+        "add1": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. Common examples of JavaScript that you might use every day include the search box on Amazon, a news recap video embedded on The New York Times, or refreshing your Twitter feed.Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages."
+    }
+]

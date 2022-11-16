@@ -1,0 +1,43 @@
+.zero {
+  background-image: url(https://raw.githubusercontent.com/MShafiMS/admission/eeb6c9456e6bec86eeddaf072a43cd089f371637/bannerbg.svg);
+}
+
+#days {
+  font-size: larger;
+  font: bolder;
+}
+
+#hours {
+  font-size: larger;
+  font: bolder;
+}
+
+#minutes {
+  font-size: larger;
+  font: bolder;
+}
+
+#seconds {
+  font-size: larger;
+  font: bolder;
+}
+
+.rocket {
+  width: 250px;
+  position: absolute;
+  right: 10%;
+  bottom: -5;
+  animation: rocket 5s linear infinite;
+}
+
+@keyframes rocket {
+  0% {
+    bottom: 0;
+    opacity: 0;
+  }
+
+  100% {
+    bottom: 115%;
+    opacity: 1;
+  }
+}

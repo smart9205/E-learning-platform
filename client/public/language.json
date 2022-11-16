@@ -1,0 +1,299 @@
+[
+  {
+    "uname": "english-for-career-development",
+    "name": "English for Career Development",
+    "badge": "TOP",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "Muhammad Shafi",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "Muhammad Shafi",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/RhRJh4oCySU",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/qk4DWxR/efcd.png",
+    "list": "career",
+    "videos": [
+      {
+        "name": "Intro to Eng. for Career Development",
+        "fileName": "Intro-to-Eng.-for-Career-Development",
+        "vurl": "https://www.youtube.com/embed/WuMD6Tjispk"
+      },
+      {
+        "name": "Overview Of career Development",
+        "fileName": "Overview-Of-career-Development",
+        "vurl": "https://www.youtube.com/embed/DRbhTPEDRbA"
+      },
+      {
+        "name": "Job Search Overview",
+        "fileName": "Job-Search-Overview",
+        "vurl": "https://www.youtube.com/embed/f7JkA9JJQJo"
+      },
+      {
+        "name": "Identifying Your Skills",
+        "fileName": "Identifying-Your-Skills",
+        "vurl": "https://www.youtube.com/embed/tsTGf-8tD6k"
+      },
+      {
+        "name": "Language Focus Vocabulary",
+        "fileName": "Language-Focus-Vocabulary",
+        "vurl": "https://www.youtube.com/embed/GFhyS-xpfZk"
+      }
+    ],
+    "file": [
+      {
+        "title": "Lesson 01",
+        "details": [
+          {
+            "name": "Intro to Eng. for Career Development",
+            "fileName": "Intro-to-Eng.-for-Career-Development"
+          },
+          {
+            "name": "Overview Of career Development",
+            "fileName": "Overview-Of-career-Development"
+          }
+        ]
+      },
+      {
+        "title": "Lesson 02",
+        "details": [
+          {
+            "name": "Job Search Overview",
+            "fileName": "Job-Search-Overview"
+          },
+          {
+            "name": "Identifying Your Skills",
+            "fileName": "Identifying-Your-Skills"
+          },
+          {
+            "name": "Language Focus Vocabulary",
+            "fileName": "Language-Focus-Vocabulary"
+          }
+        ]
+      }
+    ],
+    "price": "2000"
+  },
+  {
+    "uname": "improve-english-communcation-skills",
+    "name": "Improve English Communication Skills",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "Muhammad Shafi",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "Muhammad Shafi",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/vkf4y77jK-k",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/RzKTNK1/iecs.png",
+    "list": "communcation",
+    "videos": [
+      {
+        "name": "Basics of Communication Skills",
+        "fileName": "Basics-of-Communication-Skills",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "What, Why, How, When, Where, Who",
+        "fileName": "What-Why-How-When-Where-Who",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "How To Make Simple Sentences",
+        "fileName": "How-To-Make-Simple-Sentences",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "Lesson 01",
+        "details": [
+          {
+            "name": "Basics of Communication Skills",
+            "fileName": "Basics-of-Communication-Skills"
+          }
+        ]
+      },
+      {
+        "title": "Lesson 02",
+        "details": [
+          {
+            "name": "What, Why, How, When, Where, Who",
+            "fileName": "What-Why-How-When-Where-Who"
+          },
+          {
+            "name": "How To Make Simple Sentences",
+            "fileName": "How-To-Make-Simple-Sentences"
+          }
+        ]
+      }
+    ],
+    "price": "1500"
+  },
+  {
+    "uname": "chinese-for-beginners",
+    "name": "Chinese for Beginners",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "Muhammad Shafi",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "Muhammad Shafi",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/DznA-oe4wJk",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/sgNKZVF/cfb.png",
+    "list": "chinese",
+    "videos": [
+      {
+        "name": "Introduction",
+        "fileName": "Introduction",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Next",
+        "fileName": "next",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "Introductionb",
+        "fileName": "Introductionb",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Nextb",
+        "fileName": "nextb",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "First Video",
+        "details": [
+          {
+            "name": "Introduction",
+            "fileName": "Introduction",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Next",
+            "fileName": "next"
+          }
+        ]
+      },
+      {
+        "title": "Second Video",
+        "details": [
+          {
+            "name": "Introductionb",
+            "fileName": "Introductionb",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Nextb",
+            "fileName": "nextb"
+          }
+        ]
+      }
+    ],
+    "price": "950"
+  },
+  {
+    "uname": "grammar-and-punctuation",
+    "name": "Grammar and Punctuation",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online..",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "Muhammad Shafi",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "Muhammad Shafi",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/DznA-oe4wJk",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/ZfZwkBT/gap.png",
+    "list": "grammar",
+    "videos": [
+      {
+        "name": "Introduction",
+        "fileName": "Introduction",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Next",
+        "fileName": "next",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "Introductionb",
+        "fileName": "Introductionb",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Nextb",
+        "fileName": "nextb",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "First Video",
+        "details": [
+          {
+            "name": "Introduction",
+            "fileName": "Introduction",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Next",
+            "fileName": "next"
+          }
+        ]
+      },
+      {
+        "title": "Second Video",
+        "details": [
+          {
+            "name": "Introductionb",
+            "fileName": "Introductionb",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Nextb",
+            "fileName": "nextb"
+          }
+        ]
+      }
+    ],
+    "price": "950"
+  }
+]

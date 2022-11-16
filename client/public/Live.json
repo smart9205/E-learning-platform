@@ -1,0 +1,32 @@
+[
+    {
+      "_id": 1,
+      "name":[ "Special Course",
+      "Language Learning",
+      "Job Recruitment",
+      "prepare for the Admission"
+    
+    ],
+      "slots": [
+        "Digital Marketing",
+        "Office Work",
+        "Abode Editing",
+        "English Career Devel",
+        "Chinese for Beginnners",
+        "Grammar and Punctuation",
+        "Improve English Communic",
+        "Bank Job",
+        "Freelancer Job",
+        "Developer Job",
+        "Corporate Job",
+        "Medical Admission Q.Sol",
+        "University Admission Course",
+        "University Admission Q.SOl",
+        "Medical Admission Course"
+        
+      ]
+    }
+    
+  ]
+ 
+  

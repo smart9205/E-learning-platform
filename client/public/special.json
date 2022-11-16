@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "25",
+        "name": "Digital Marketing",
+        "description": "Learn efficient ways to  organize product on facebook platform. If you are interested in marketing explore your potential and showcase them with us in this platform. Enroll now!! ",
+        "img": "https://kolkatadigitalmarketinginstitute.com/wp-content/uploads/2021/06/Digital-Marketing-.jpg",
+        "price": "120"
+    },
+    {
+        "_id": "26",
+        "name": "Freelancing",
+        "description": "Explore yourself in the field of freelancing. Work and manage your work from home. Enroll now to learn the way of getting unlimited works from home.",
+        "img": "https://www.erozgaar.pitb.gov.pk/system/files/styles/juicebox_medium/private/Mistakes-to-avoid-when-hiring-freelancers%20%281%29_0.jpg?itok=HJjvViKi",
+        "price": "140"
+    },
+    {
+        "_id": "27",
+        "name": "Abode Editing",
+        "description": "If adobe photoshop and illustration excites you, you are in right place!!Enroll now to learn the way of becoming more better in adobe editing.",
+        "img": "https://coursevania.com/wp-content/uploads/2021/05/4060610_17f8.jpg",
+        "price": "150"
+    }
+]

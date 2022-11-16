@@ -1,0 +1,305 @@
+[
+  {
+    "uname": "varsity-admission-course",
+    "name": "University Admission Course - 2022",
+    "badge": "TOP",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/VwHX8jX/uac.png",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "MD Badsha",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "MD Badsha",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/DznA-oe4wJk",
+    "list": "varsity",
+    "videos": [
+      {
+        "name": "Introduction",
+        "fileName": "Introduction",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Next",
+        "fileName": "next",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "Introductionb",
+        "fileName": "Introductionb",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Nextb",
+        "fileName": "nextb",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "First Video",
+        "details": [
+          {
+            "name": "Introduction",
+            "fileName": "Introduction",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Next",
+            "fileName": "next"
+          }
+        ]
+      },
+      {
+        "title": "Second Video",
+        "details": [
+          {
+            "name": "Introductionb",
+            "fileName": "Introductionb",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Nextb",
+            "fileName": "nextb"
+          }
+        ]
+      }
+    ],
+
+    "price": "1600"
+  },
+  {
+    "uname": "medical-admission-course",
+    "name": "Medical Admission Course - 2022",
+    "badge": "TOP",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/FxTDdLp/mac.png",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "MD Badsha",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "MD Badsha",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/DznA-oe4wJk",
+    "list": "medical",
+    "videos": [
+      {
+        "name": "Introduction",
+        "fileName": "Introduction",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Next",
+        "fileName": "next",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "Introductionb",
+        "fileName": "Introductionb",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Nextb",
+        "fileName": "nextb",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "First Video",
+        "details": [
+          {
+            "name": "Introduction",
+            "fileName": "Introduction",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Next",
+            "fileName": "next"
+          }
+        ]
+      },
+      {
+        "title": "Second Video",
+        "details": [
+          {
+            "name": "Introductionb",
+            "fileName": "Introductionb",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Nextb",
+            "fileName": "nextb"
+          }
+        ]
+      }
+    ],
+    "price": "1600"
+  },
+  {
+    "uname": "medical-admission-q-solve",
+    "name": "Medical Admission Q. Solve Course",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/1fNJtxv/maqsc.png",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "MD Badsha",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "MD Badsha",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/DznA-oe4wJk",
+    "list": "medical-q",
+    "videos": [
+      {
+        "name": "Introduction",
+        "fileName": "Introduction",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Next",
+        "fileName": "next",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "Introductionb",
+        "fileName": "Introductionb",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Nextb",
+        "fileName": "nextb",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "First Video",
+        "details": [
+          {
+            "name": "Introduction",
+            "fileName": "Introduction",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Next",
+            "fileName": "next"
+          }
+        ]
+      },
+      {
+        "title": "Second Video",
+        "details": [
+          {
+            "name": "Introductionb",
+            "fileName": "Introductionb",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Nextb",
+            "fileName": "nextb"
+          }
+        ]
+      }
+    ],
+    "price": "1600"
+  },
+  {
+    "uname": "varsity-admission-q-solve",
+    "name": "University Admission Q. Solve Course",
+    "link": "Introduction",
+    "img": "https://i.ibb.co/XCjD9r8/uaqsc.png",
+    "desc": "Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success.",
+    "abouta": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutb": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "aboutc": "This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online.",
+    "topica": "Professional",
+    "topicb": "Email Writing",
+    "topicc": "Presentation",
+    "topicd": "Communication",
+    "instructor": "MD Badsha",
+    "instructoraddress": "CTG, Bangladesh",
+    "instructorb": "MD Badsha",
+    "instructorbaddress": "CTG, Bangladesh",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/DznA-oe4wJk",
+    "list": "varsity-q",
+    "videos": [
+      {
+        "name": "Introduction",
+        "fileName": "Introduction",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Next",
+        "fileName": "next",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      },
+      {
+        "name": "Introductionb",
+        "fileName": "Introductionb",
+        "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+      },
+      {
+        "name": "Nextb",
+        "fileName": "nextb",
+        "vurl": "https://www.youtube.com/embed/7ABgJxVP34Q"
+      }
+    ],
+    "file": [
+      {
+        "title": "First Video",
+        "details": [
+          {
+            "name": "Introduction",
+            "fileName": "Introduction",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Next",
+            "fileName": "next"
+          }
+        ]
+      },
+      {
+        "title": "Second Video",
+        "details": [
+          {
+            "name": "Introductionb",
+            "fileName": "Introductionb",
+            "vurl": "https://www.youtube.com/embed/_CdyZX2OBMk"
+          },
+          {
+            "name": "Nextb",
+            "fileName": "nextb"
+          }
+        ]
+      }
+    ],
+    "price": "1600"
+  }
+]

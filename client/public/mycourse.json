@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "9",
+    "uname": "english-for-career-development",
+    "name": "English for Career Development",
+    "badge": "TOP",
+    "desc": "Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi",
+    "abouta": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, blanditiis recusandae asperiores molestias esse minima quam placeat animi, aperiam officia adipisci pariatur laboriosam eum facilis.",
+    "aboutb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, blanditiis recusandae asperiores molestias esse minima quam placeat animi, aperiam officia adipisci pariatur laboriosam eum facilis.",
+    "aboutc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, blanditiis recusandae asperiores molestias esse minima quam placeat animi, aperiam officia adipisci pariatur laboriosam eum facilis.",
+    "topica": "Provident cupiditate",
+    "topicb": "Provident cupiditate",
+    "topicc": "Provident cupiditate",
+    "topicd": "Provident cupiditate",
+    "instructor": "Programming Hero",
+    "instructorb": "Programming Hero",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/RhRJh4oCySU",
+    "link": "Introduction",
+    "img": "https://static.vecteezy.com/system/resources/thumbnails/003/266/872/small/career-business-work-concept-with-business-goals-team-free-vector.jpg",
+    "list": "career",
+    "file": [
+      {
+        "title": "Lesson 01",
+        "details": [
+          {
+            "name": "Intro to Eng. for Career Development",
+            "fileName": "Intro-to-Eng.-for-Career-Development",
+            "vurl": "https://www.youtube.com/embed/DRbhTPEDRbA"
+          },
+          {
+            "name": "Overview Of career Development",
+            "fileName": "Overview-Of-career-Development",
+            "vurl": "https://www.youtube.com/embed/DRbhTPEDRbA"
+          }
+        ]
+      },
+      {
+        "title": "Lesson 02",
+        "details": [
+          {
+            "name": "Job Search Overview",
+            "fileName": "Job-Search-Overview",
+            "vurl": "https://www.youtube.com/embed/DRbhTPEDRbA"
+          },
+          {
+            "name": "Identifying Your Skills",
+            "fileName": "Identifying-Your-Skills",
+            "vurl": "https://www.youtube.com/embed/DRbhTPEDRbA"
+          },
+          {
+            "name": "Language Focus Vocabulary",
+            "fileName": "Language-Focus-Vocabulary",
+            "vurl": "https://www.youtube.com/embed/DRbhTPEDRbA"
+          }
+        ]
+      }
+    ],
+    "price": "2000"
+  },
+  {
+    "_id": "10",
+    "uname": "improve-english-communcation-skills",
+    "name": "Improve English Communication Skills",
+    "desc": "Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi",
+    "abouta": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, blanditiis recusandae asperiores molestias esse minima quam placeat animi, aperiam officia adipisci pariatur laboriosam eum facilis.",
+    "aboutb": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, blanditiis recusandae asperiores molestias esse minima quam placeat animi, aperiam officia adipisci pariatur laboriosam eum facilis.",
+    "aboutc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, blanditiis recusandae asperiores molestias esse minima quam placeat animi, aperiam officia adipisci pariatur laboriosam eum facilis.",
+    "topica": "Provident cupiditate",
+    "topicb": "Provident cupiditate",
+    "topicc": "Provident cupiditate",
+    "topicd": "Provident cupiditate",
+    "instructor": "Programming Hero",
+    "instructorb": "Programming Hero",
+    "instructorimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "instructorbimg": "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png",
+    "introvdo": "https://www.youtube.com/embed/vkf4y77jK-k",
+    "link": "Introduction",
+    "img": "https://camonk.com/s/store/courses/61cab6ff0cf2acaec8c0be66/cover.jpg?v=2",
+    "list": "communcation",
+    "file": [
+      {
+        "title": "Lesson 01",
+        "details": [
+          {
+            "name": "Basics of Communication Skills",
+            "fileName": "Basics-of-Communication-Skills"
+          }
+        ]
+      },
+      {
+        "title": "Lesson 02",
+        "details": [
+          {
+            "name": "What, Why, How, When, Where, Who",
+            "fileName": "What-Why-How-When-Where-Who"
+          },
+          {
+            "name": "How To Make Simple Sentences",
+            "fileName": "How-To-Make-Simple-Sentences"
+          }
+        ]
+      }
+    ],
+    "price": "1500"
+  }
+]
